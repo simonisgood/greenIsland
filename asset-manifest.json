@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/greenIsland/static/css/main.e5ecc4cf.css",
+    "main.js": "/greenIsland/static/js/main.ed5a5e31.js",
+    "static/media/SEGA.woff": "/greenIsland/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/greenIsland/index.html",
+    "main.e5ecc4cf.css.map": "/greenIsland/static/css/main.e5ecc4cf.css.map",
+    "main.ed5a5e31.js.map": "/greenIsland/static/js/main.ed5a5e31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5ecc4cf.css",
+    "static/js/main.ed5a5e31.js"
+  ]
+}
